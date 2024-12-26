@@ -187,4 +187,7 @@ Conclusion
 
 The **Careem Pay Merchant Plugin** for NodeJS simplifies integration with Careem Pay's API by offering ready-to-use endpoints for common payment functions. With minimal setup, merchants can integrate essential payment services into their applications securely and efficiently.
 
-=======================================================
+.. toctree::
+   :maxdepth: 2
+
+   bpr
